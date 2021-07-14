@@ -1,4 +1,4 @@
-# Machine Learning - Neural Network Project
+# Machine Learning - Neural Network Project - voice classification
 
 Python project . 
 
