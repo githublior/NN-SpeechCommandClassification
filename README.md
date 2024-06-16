@@ -53,5 +53,7 @@ This project was elaborated in colaboration between Lior Shimon and Raphael Aben
 
 
 
-# complementary colab notebook:
+# complementary:
 https://colab.research.google.com/drive/1rImsjjqyEJhaGE4ibtCvXTFq3WD9nap0
+data loader tester, ex4.py ,and  gcommand loaderat :  https://drive.google.com/drive/u/0/folders/1RS0OZNH_r0C1nqUdOKOjrC_hWT5Df9hy
+
