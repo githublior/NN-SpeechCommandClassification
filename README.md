@@ -50,3 +50,8 @@ python ex4.py
 ## Contributing
 
 This project was elaborated in colaboration between Lior Shimon and Raphael Aben-Moha during Dr Joseph Keshet's class : << Intro to Machine Learning >> at Bar Ilan University - Spring 2019
+
+
+
+# complementary colab notebook:
+https://colab.research.google.com/drive/1rImsjjqyEJhaGE4ibtCvXTFq3WD9nap0
